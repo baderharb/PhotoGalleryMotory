@@ -1,7 +1,8 @@
-package baderharb.motory.photogallerymotory
+package baderharb.motory.photogallerymotory.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import baderharb.motory.photogallerymotory.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
